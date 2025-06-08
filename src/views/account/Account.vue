@@ -219,7 +219,7 @@ const showPanel = (type) => {
 
 onMounted(() => {
   resetForm(1)
-})
+}) //import onmounted
 </script>
 
 <style lang="scss" scoped>
